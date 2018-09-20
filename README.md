@@ -1,6 +1,6 @@
 # Assignments
 
-  1. Fork this repository and clone it to your computer using GitHub Desktop
+  1. Clone this repository to create a local copy on your computer using GitHub Desktop
   2. Complete the current assignment by modifying the appropriate file (usually just a .py file). 
   3. Regularly commit your code.
   4. Push up to GitHub (to sync files)
