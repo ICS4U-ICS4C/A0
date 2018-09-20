@@ -1,7 +1,7 @@
 # Assignment 0
 
   1. Clone this repository to create a local copy on your computer using GitHub Desktop
-  2. Complete the current assignment by modifying the appropriate file (usually just a .py file). 
+  2. Complete the current assignment by modifying the Triangle_Area.py file according to the instructions in the comments. 
   3. Regularly commit your code.
   4. Push up to GitHub (to sync files)
   5. When you're ready, make a pull request on the original repository to submit your work
