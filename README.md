@@ -1,7 +1,7 @@
 # Assignments
 
-  1. Fork this repository and clone it to your computer (If you're using a school computer, use GitHub Desktop to do this)
-  2. Complete the current assignment by modifying the appropriate files (usually just a .py file)
+  1. Fork this repository and clone it to your computer using GitHub Desktop
+  2. Complete the current assignment by modifying the appropriate file (usually just a .py file). 
   3. Regularly commit your code.
   4. Push up to GitHub (to sync files)
   5. When you're ready, make a pull request on the original repository to submit your work
