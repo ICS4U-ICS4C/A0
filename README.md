@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 0
 
   1. Clone this repository to create a local copy on your computer using GitHub Desktop
   2. Complete the current assignment by modifying the appropriate file (usually just a .py file). 
